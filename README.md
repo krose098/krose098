@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+TODO:
+- [ ] A short bio or introduction
+- [ ] Your research interests or current projects
+- [ ] Links to your website, social media, or other relevant profiles
+- [ ] Fun facts, images, or emojis to personalize your page
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
