@@ -8,7 +8,7 @@
 # Hi there, I'm Kovi\! 👋 🔭 (pronounced like coffee ☕)
 ## About Me
 
-I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. I work in observational radio-astronomy 📡 and love finding weird things in space that go snap, crackle and/or pop ✨. Beyond research, I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
+I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. I work in observational astronomy 🔭 and love finding weird things in space that go snap, crackle and/or pop ✨. Beyond research, I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
 
 -----
 
@@ -23,18 +23,16 @@ My research primarily focuses on:
 
 Currently, I'm working on:
 
-  * **Searching for new astronomical radio sources** with instruments like the Australian Square Kilometre Array Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA). 🔍
-  * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from late-type stellar magnetic fields 🪐.
+  * **Searching for new astronomical radio sources** with instruments like the Australian Square Kilometre Array Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
+  * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from late-type stellar magnetic fields ⭐.
 
   * **ADS Library:** [My ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
-
 -----
-
 
 ### Curriculum Vitae
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1AswELUG4FRIJOmpmSmbuvvpLQOFUmUBU/view?usp=sharing" download>Download my CV</a>
+> <a href="https://drive.google.com/file/d/1AswELUG4FRIJOmpmSmbuvvpLQOFUmUBU/view?usp=sharing" download>Download my CV 📑 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
 
