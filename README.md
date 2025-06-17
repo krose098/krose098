@@ -8,7 +8,7 @@
 # Hi there, I'm Kovi\! 👋 🔭 (pronounced like coffee ☕)
 ## About Me
 
-I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. I'm passionate about observational radio-astronomy 📡 and love finding weird things in space that go snap, crackle and/or pop ✨. Beyond research, I'm deeply committed to science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
+I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. I work in observational radio-astronomy 📡 and love finding weird things in space that go snap, crackle and/or pop ✨. Beyond research, I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
 
 -----
 
@@ -18,13 +18,13 @@ My research primarily focuses on:
 
   * **Observational Radio-Astronomy**: Utilizing radio telescopes 📡 to observe the universe.
   * **Transient Events**: Identifying and studying transient events across the radio sky 💥.
-      * **Ultracool Dwarfs**: Investigating radio emissions from ultracool brown dwarf, such as WISE J062309.94-045624.6, to understand stellar magnetic fields and auroral mechanisms. You can read more about this work in our paper: ["Periodic Radio Emission from the T8 Dwarf WISE J062309.94–045624.6"](https://arxiv.org/abs/2306.15219).
+      * **Ultracool Dwarfs**: Investigating radio emissions from ultracool brown dwarfs, like WISE J062309.94-045624.6, to understand stellar magnetic fields and auroral mechanisms. You can read more about this work in our paper: ["Periodic Radio Emission from the T8 Dwarf WISE J062309.94–045624.6"](https://arxiv.org/abs/2306.15219).
       * **Late-time Supernovae Re-brightening**: Exploring late-time radio re-brightening in supernovae 🌟. Our pilot survey work on this is detailed here: ["Late-Time Supernovae Radio Re-brightening in the VAST Pilot Survey"](https://arxiv.org/abs/2410.01375).
 
 Currently, I'm working on:
 
   * **Searching for new astronomical radio sources** with instruments like the Australian Square Kilometre Array Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA). 🔍
-  * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from celestial objects 🪐.
+  * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from late-type stellar magnetic fields 🪐.
 
   * **ADS Library:** [My ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
