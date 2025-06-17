@@ -31,6 +31,14 @@ Currently, I'm working on:
 
 -----
 
+
+### Curriculum Vitae
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1AswELUG4FRIJOmpmSmbuvvpLQOFUmUBU/view?usp=sharing" download>Download my CV</a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
+
+
 ## Connect with Me
 
 You can find me on:
@@ -39,6 +47,9 @@ You can find me on:
   * **SpaceAus:** I'm a writer for [SpaceAus](https://spaceaustralia.com/), covering stories about space 🚀, astrophysics 🌃, and STEM 🧪.
   * **Instagram (Fun Fact Science):** [@funfactscience](https://www.instagram.com/funfactscience/) 📷
   * **Podcast Co-host:** I co-host the "[Nerd and the Scientist](https://open.spotify.com/show/7oRjMYoJdHZjfkuttqbgZo?si=e7af8f893e2f4aaa)" podcast and "Space Case Sarah" on iRoc Space Radio. 🎙️
+
+
+
 
 -----
 
@@ -52,4 +63,4 @@ You can find me on:
 -----
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
+
