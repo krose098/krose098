@@ -34,8 +34,7 @@ Currently, I'm working on:
 
 ### Curriculum Vitae
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1Nvnu_nv8vdY-CJC3petrtkP4zI-roF0-/view?usp=sharing" download>Download my CV 📑 </a>
-
+> <a href="https://drive.google.com/file/d/1FTGfzeSsIHgfGu6bbJOUH7Q1yGLYYwV-/view?usp=sharing" download>Download my CV 📑 </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
 
 
