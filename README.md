@@ -20,7 +20,7 @@ My research primarily focuses on:
   * **Transient Events**: Identifying and studying transient events across the radio sky 💥.
       * **Ultracool Dwarfs**: Investigating radio emissions from ultracool brown dwarfs, like WISE J062309.94-045624.6, to understand stellar magnetic fields and auroral mechanisms. You can read more about this work in our paper: ["Periodic Radio Emission from the T8 Dwarf WISE J062309.94–045624.6"](https://arxiv.org/abs/2306.15219).
       * **Late-time Supernovae Re-brightening**: Exploring late-time radio re-brightening in supernovae 🌟. Our pilot survey work on this is detailed here: ["Late-Time Supernovae Radio Re-brightening in the VAST Pilot Survey"](https://arxiv.org/abs/2410.01375).
-      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. We've just submitted a manuscript about our recent work to demystify one of these objects.
+      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. We currently have a manuscript under review about our recent work to demystify one of these objects.
 
 Currently, I'm working on:
 
