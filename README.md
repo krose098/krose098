@@ -8,7 +8,7 @@
 # Hi there, I'm Kovi\! 👋 🔭 (pronounced like coffee ☕)
 ## About Me
 
-I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. I work in observational astronomy 🔭 and love finding weird things in space that go snap, crackle and/or pop ✨. Beyond research, I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
+I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. My research sits at the intersection of observational radio astronomy and large-scale data science — I spend as much time building pipelines and wrangling petabyte-scale datasets as I do pointing telescopes at the sky 📡. I love finding weird things in space that go snap, crackle and/or pop ✨, and I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
 
 -----
 
@@ -16,11 +16,11 @@ I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at 
 
 My research primarily focuses on:
 
-  * **Observational Radio Astronomy**: Utilizing radio telescopes 📡 to observe the universe.
+  * **Data-Driven Radio Astronomy**: I build and deploy Python pipelines to detect, classify, and characterise rare astronomical sources across the ASKAP survey — processing data at rates of 12.5 TB/s using parallelised, distributed workflows on HPC clusters. This means a lot of statistical modelling, anomaly detection, and time-series analysis to pull faint signals out of enormous, noisy datasets.
   * **Transient Events**: Identifying and studying transient events across the radio sky 💥.
       * **Ultracool Dwarfs**: Investigating radio emissions from ultracool brown dwarfs, like WISE J062309.94-045624.6, to understand stellar magnetic fields and auroral mechanisms. You can read more about this work in our paper: ["Periodic Radio Emission from the T8 Dwarf WISE J062309.94–045624.6"](https://arxiv.org/abs/2306.15219).
       * **Late-time Supernovae Re-brightening**: Exploring late-time radio re-brightening in supernovae 🌟. Our pilot survey work on this is detailed here: ["Late-Time Supernovae Radio Re-brightening in the VAST Pilot Survey"](https://arxiv.org/abs/2410.01375).
-      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. We currently have a manuscript under review about our recent work to demystify one of these objects.
+      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. We currently have a manuscript in press about our recent work to demystify one of these objects.
 
 Currently, I'm working on:
 
