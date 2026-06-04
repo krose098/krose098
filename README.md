@@ -20,13 +20,13 @@ My research primarily focuses on:
   * **Transient Events**: Identifying and studying transient events across the radio sky 💥.
       * **Ultracool Dwarfs**: Investigating radio emissions from ultracool brown dwarfs, like WISE J062309.94-045624.6, to understand stellar magnetic fields and auroral mechanisms. You can read more about this work in our paper: ["Periodic Radio Emission from the T8 Dwarf WISE J062309.94–045624.6"](https://arxiv.org/abs/2306.15219).
       * **Late-time Supernovae Re-brightening**: Exploring late-time radio re-brightening in supernovae 🌟. Our pilot survey work on this is detailed here: ["Late-Time Supernovae Radio Re-brightening in the VAST Pilot Survey"](https://arxiv.org/abs/2410.01375).
-      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. We currently have a manuscript in press about our recent work to demystify one of these objects.
+      *  **Long-period Radio Transients**: The discovery and study of long-period radio transient phenomena 👽. In our recent work we found a new LPT, the first classified as an accreting white dwarf binary: ["Periodic Radio and X-ray Emission from an Accreting White Dwarf Binary"](https://arxiv.org/abs/2606.04232)
 
 Currently, I'm working on:
 
   * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from late-type stellar magnetic fields ⭐.
   * **Detecting changes extragalactic polarisation** and studying the cores of active galaxies 🌌.
-  * **Searching for new astronomical radio sources** with instruments like the Australian Square Kilometre Array Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
+  * **Searching for new astronomical radio sources** with instruments like the Australian SKA Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
 
   * **ADS Library:** [My ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
