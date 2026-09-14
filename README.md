@@ -8,7 +8,7 @@
 # Hi there, I'm Kovi\! 👋 🔭 (pronounced like coffee ☕)
 ## About Me
 
-I'm an Astrophysics PhD candidate 🎓 at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. My research sits at the intersection of observational radio astronomy and large-scale data science — I spend as much time building pipelines and wrangling petabyte-scale datasets as I do pointing telescopes at the sky 📡. I love finding weird things in space that go snap, crackle and/or pop ✨, and I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
+I'm an Astrophysics PhD candidate (submitted 🎓) at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. My research sits at the intersection of observational radio astronomy and large-scale data science — I spend as much time building pipelines and wrangling petabyte-scale datasets as I do pointing telescopes at the sky 📡. I love finding weird things in space that go snap, crackle and/or pop ✨, and I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
 
 -----
 
