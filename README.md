@@ -26,8 +26,9 @@ Currently, I'm working on:
 
   * **Unravelling sub-stellar magnetospheres** and understanding the periodicity of radio emissions from late-type stellar magnetic fields ⭐.
   * **Detecting changes extragalactic polarisation** and studying the cores of active galaxies 🌌.
-  * **Searching for new astronomical radio sources** with instruments like the Australian SKA Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
-
+  * **Searching for transient astronomical radio sources** with instruments like the Australian SKA Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
+  * **Helping commission and mitigate RFI** for the new [LAMBDA](https://www.atnf.csiro.au/projects/instrumentation/lambda/) telescope ⚙️.
+   
   * **ADS Library:** [My ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
 -----
