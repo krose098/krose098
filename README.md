@@ -36,6 +36,7 @@ Currently, I'm working on:
 ### Curriculum Vitae
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1YPOaZctFH9ykwXoMtt-5CjbPNQH0-4L0/view?usp=sharing" download>Download my Academic CV 📑 </a>
+
 > <a href="https://drive.google.com/file/d/1c7HGl7e7cGVWykEUpDuoAMQxQ4vrsol-/view?usp=sharing" download>Download my Professional CV 💻 </a>
 <p><img align="center" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
 
