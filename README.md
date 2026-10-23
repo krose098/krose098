@@ -29,7 +29,7 @@ Currently, I'm working on:
   * **Searching for transient astronomical radio sources** with instruments like the Australian SKA Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
   * **Helping commission and mitigate RFI** for the new [LAMBDA](https://www.atnf.csiro.au/projects/instrumentation/lambda/) telescope ⚙️.
    
-  * **ADS Library:** [My ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
+  * **SciX / ADS Library:** [My publications](https://scixplorer.org/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
 -----
 
