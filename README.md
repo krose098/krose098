@@ -38,7 +38,17 @@ Currently, I'm working on:
 > <a href="https://drive.google.com/file/d/1YPOaZctFH9ykwXoMtt-5CjbPNQH0-4L0/view?usp=sharing" download>Download my Academic CV 📑 </a>
 
 > <a href="https://drive.google.com/file/d/1c7HGl7e7cGVWykEUpDuoAMQxQ4vrsol-/view?usp=sharing" download>Download my Professional CV 💻 </a>
-<p><img align="center" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=krose098&show_icons=true&locale=en&layout=compact" alt="krose098" /></p>
+
+<p align="center">
+ <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api?username=krose098" alt="Kovi's GitHub stats" /></a>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=krose098&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krose098&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
+</p>
 
 ## Connect with Me
 
