@@ -35,7 +35,7 @@ Currently, I'm working on:
 
 ### Curriculum Vitae
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1YPOaZctFH9ykwXoMtt-5CjbPNQH0-4L0/view?usp=sharing" download>Download my Academic CV 📑 </a>
+> <a href="https://drive.google.com/file/d/1RkTixKE1rSaP18LiPp1Zsj7kne2SAZwx/view?usp=sharing" download>Download my Academic CV 📑 </a>
 
 > <a href="https://drive.google.com/file/d/1c7HGl7e7cGVWykEUpDuoAMQxQ4vrsol-/view?usp=sharing" download>Download my Professional CV 💻 </a>
 
