@@ -8,7 +8,7 @@
 # Hi there, I'm Kovi\! 👋 🔭 (pronounced like coffee ☕)
 ## About Me
 
-I'm an Astrophysics PhD candidate (submitted 🎓) at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and I completed my undergraduate studies at the Hebrew University of Jerusalem 🇮🇱. My research sits at the intersection of observational radio astronomy and large-scale data science — I spend as much time building pipelines and wrangling petabyte-scale datasets as I do pointing telescopes at the sky 📡. I love finding weird things in space that go snap, crackle and/or pop ✨, and I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
+I'm a postdoctoral researcher working between CSIRO Space & Astronomy and the Sydney node of the ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav). I completed my PhD in Astrophysics (submitted 🎓) at the Sydney Institute for Astronomy at the University of Sydney 🇦🇺, and did my undergraduate degree in Physics at the Hebrew University of Jerusalem 🇮🇱. My research sits at the intersection of observational radio astronomy and large-scale data science — I spend as much time building pipelines and wrangling petabyte-scale datasets as I do pointing telescopes at the sky 📡. I love finding weird things in space that go snap, crackle and/or pop ✨, and I'm passionate about science communication and outreach 🗣️, aiming to make science accessible and engaging for everyone 😊.
 
 -----
 
@@ -28,8 +28,9 @@ Currently, I'm working on:
   * **Detecting changes extragalactic polarisation** and studying the cores of active galaxies 🌌.
   * **Searching for transient astronomical radio sources** with instruments like the Australian SKA Pathfinder (ASKAP) and the Australia Telescope Compact Array (ATCA) 🔍.
   * **Helping commission and mitigate RFI** for the new [LAMBDA](https://www.atnf.csiro.au/projects/instrumentation/lambda/) telescope ⚙️.
+  * **Developing a fast transient detection pipeline** for OzGrav.
    
-  * **SciX / ADS Library:** [My publications](https://scixplorer.org/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
+  **SciX Library:** [My publications](https://scixplorer.org/public-libraries/ba6h6kcIQ_GlPzIBs1d91A) 📚
 
 -----
 
